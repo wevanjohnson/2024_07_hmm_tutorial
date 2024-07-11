@@ -13,10 +13,29 @@ output: beamer_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Introduction
+![](figs/collage0.png)
+
+
+## Introduction
+![](figs/collage.png)
+
+## Introduction
+![](figs/collage2.png)
+
 ## GitHub Repository
 Please note the following GitHub Repository for all materials for this tutorial:
 
 https://github.com/wevanjohnson/2024_07_hmm_tutorial
+
+## Examples using Hidden Markov Models
+![](figs/weili_1.png)
+
+## Examples using Hidden Markov Models
+![](figs/dsat0.png)
+
+## Examples using Hidden Markov Models
+![](figs/dsat.png)
 
 ## Introduction to Dynamic Programming
 Before we study **Hidden Markov Models (HMMs)** it is necessary to begin with an introduction to **dynamic programming (DP)**.
